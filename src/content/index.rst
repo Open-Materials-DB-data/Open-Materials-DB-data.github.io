@@ -5,9 +5,9 @@
 :Template: default
 :Base_template: base_default
 
-============================
-Open Materials DB data pages
-============================
+=========================================
+Open Materials Database (omdb) data pages
+=========================================
 
 Landing pages for public datasets
 ---------------------------------
