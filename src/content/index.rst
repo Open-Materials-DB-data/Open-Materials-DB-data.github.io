@@ -22,7 +22,7 @@ Landing pages for public datasets
 2022
 ====
 
-- `Tetragonal distortion in magnetron sputtered bcc-W films with supersaturated carbon <https://data.openmaterialsdb.se/wctmd/>`__
+- `Tetragonal distortion in magnetron sputtered bcc-W films with supersaturated carbon <https://data.openmaterialsdb.se/wctmd>`__
 
 2021
 ====
