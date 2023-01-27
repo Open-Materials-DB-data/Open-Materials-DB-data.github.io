@@ -9,8 +9,6 @@
 Open Materials DB data pages
 ============================
 
-*Note: if you find links on the landing pages that do not work or anything else that needs an update, please contant: rickard.armiento (at) liu.se.*
-
 Landing pages for public datasets
 ---------------------------------
 
@@ -39,7 +37,9 @@ A browsable user interface to open materials database is available at: https://o
 
 Note: most data sets above are not represented in the browsable database.
 
+Contact info
+------------
 
-
+If you find links on the landing pages that do not work or anything else that needs an update, please contant: rickard.armiento (at) liu.se.
 
 
