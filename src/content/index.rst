@@ -27,7 +27,7 @@ Landing pages for public datasets
 2021
 ====
 
-- `Automatic workflows for magneto-optical properties of point defects in semiconductors <https://data.openmaterialsdb.se/adaq>`__ 
+- `Automatic workflows for magneto-optical properties of point defects in semiconductors <https://data.openmaterialsdb.se/adaq_auto>`__ 
 
 
 Browsable materials data
