@@ -15,6 +15,8 @@ Landing pages for public datasets
 2023
 ====
 
+- `Phase formation in CrFeCoNi nitride thin films <https://data.openmaterialsdb.se/crfenico_n>`__
+
 - `First Principles Theory of the Pressure Induced Invar Effect in FeNi Alloys <https://data.openmaterialsdb.se/pressure_induced_invar_effect>`__
 
 - `Absorption versus Adsorption: High-Throughput Computation of Impurities in 2D Materials <https://data.openmaterialsdb.se/imp2d>`__
