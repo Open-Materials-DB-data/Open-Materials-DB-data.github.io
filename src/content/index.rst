@@ -12,6 +12,11 @@ Open Materials Database (omdb) data pages
 Landing pages for public datasets
 ---------------------------------
 
+2024
+====
+
+-  `Suggesting the high-pressure route to metastable high entropy alloys with ultra-large lattice distortions <https://data.openmaterialsdb.se/hea_pressure>`__
+
 2023
 ====
 
